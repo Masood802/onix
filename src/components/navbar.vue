@@ -17,7 +17,7 @@ onMounted(() => {
 
 <template>
   <div
-    class="w-full fixed flex justify-center items-center bg-slate-50 h-24 z-50"
+    class="w-full fixed flex justify-center items-center bg-slate-50 h-24 z-50 shadow-lg"
     :class="{ change_bg: scrollPostioon > 550 }"
   >
     <div class="w-3/5 flex justify-center items-center">
