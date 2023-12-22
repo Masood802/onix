@@ -46,7 +46,8 @@ onMounted(() => {
           >About
         </router-link>
         <router-link
-          to="/menu"
+         @click="handleScroll('portfolio')"
+          to="/portfolio"
           class="px-3 hover:text-red-700 transition-all duration-500 ease-linear"
           >Portfolio
         </router-link>
