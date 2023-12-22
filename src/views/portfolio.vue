@@ -54,8 +54,28 @@
       alt=""
       class="absolute top-0 right-0"
     />
-    <div class="w-3/5 mx-auto ">
-      <div class=" w-1/3 rounded-xl h-[28rem] bg-[url('first-plan-bg.png')] shadow-lg bg-cover bg-center flex flex-col items-center justify-start">
+    <div class="w-5/6 mx-auto flex z-50 ">
+      <div class=" w-1/3 rounded-3xl h-[28rem] bg-[url('first-plan-bg.png')] shadow-lg bg-cover bg-center flex flex-col items-center justify-start mx-6 my-4">
+        <h1 class="text-xl font-bold mt-8">Starter Plan</h1>
+        <p class="text-red-500 mt-4 line-through">$160 mo</p>
+        <h2 class="text-4xl font-bold text-red-500">$140</h2>
+        <h2 class="my-5 text-gray-500">10 Projects</h2>
+        <h2 class="text-gray-500">100 GB Space</h2>
+        <h2 class="my-6 text-gray-500">20 SEO Checkups</h2>
+        <h2 class="text-gray-500 mb-4">Bacic Support</h2>
+        <button class="bg-sky-500 w-32 h-12 rounded-full text-slate-50 font-semibold">Get Started</button>
+      </div>
+      <div class=" w-1/3 rounded-3xl h-[28rem] bg-[url('second-plan-bg.png')] shadow-lg bg-cover bg-center flex flex-col items-center justify-start mx-6 my-4">
+        <h1 class="text-xl font-bold mt-8">Starter Plan</h1>
+        <p class="text-red-500 mt-4 line-through">$160 mo</p>
+        <h2 class="text-4xl font-bold text-red-500">$140</h2>
+        <h2 class="my-5 text-gray-500">10 Projects</h2>
+        <h2 class="text-gray-500">100 GB Space</h2>
+        <h2 class="my-6 text-gray-500">20 SEO Checkups</h2>
+        <h2 class="text-gray-500 mb-4">Bacic Support</h2>
+        <button class="bg-sky-500 w-32 h-12 rounded-full text-slate-50 font-semibold">Get Started</button>
+      </div>
+      <div class=" w-1/3 rounded-3xl h-[28rem] bg-[url('third-plan-bg.png')] shadow-lg bg-cover bg-center flex flex-col items-center justify-start mx-6 my-4">
         <h1 class="text-xl font-bold mt-8">Starter Plan</h1>
         <p class="text-red-500 mt-4 line-through">$160 mo</p>
         <h2 class="text-4xl font-bold text-red-500">$140</h2>
